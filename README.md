@@ -1,6 +1,6 @@
 # Challenge-binaire-et-hexadecimal
 
-**Q1 — 5B1 (hexa) en binaire**
+### **Q1 — 5B1 (hexa) en binaire**
 5 → 0101
 B → 1011
 1 → 0001
